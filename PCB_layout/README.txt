@@ -1,0 +1,1 @@
+usb2uart/ project folder created with KiCAD 6.0 
