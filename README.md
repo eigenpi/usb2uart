@@ -35,4 +35,4 @@ how to reflow, solder, test, and print a 3D enclosure.
 
 8. [Part 8: Testing and Programming an Arduino Pro Mini](https://www.youtube.com/watch?v=vrjB3BWouZs)
 
-9. [Part 9: 3D Printed Enclosure Designed in Autodesk Fusion 360](NAY, not available yet)
+9. [Part 9: 3D Printed Enclosure Designed in Autodesk Fusion 360](https://youtu.be/6EWKOvSFG48)
